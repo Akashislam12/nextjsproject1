@@ -26,12 +26,13 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
+          <h2>This is my new site</h2>
           <h1>My First app</h1>
           
         </div>
 
-      
-       
+
+
       </main>
     </>
   )
