@@ -4,10 +4,10 @@ const about = () => {
   return (
     <div>
         <div className='flex m-40'>
-          <Image  className='h-96 w-96 rounded-e-full ' width={10000} height={100} src="/profile.jpg"/>
+          <Image alt="" className='h-96 w-96 rounded-e-full ' width={10000} height={100} src="/profile.jpg"/>
           <div>
             <h1 className='text-xl bold text-center'>This is my identity</h1>
-            <p>I am always ready for people to doinig for any work . Because I love human.Don't have any couse.</p>
+            <p>I am always ready for people to doinig for any work . Because I love human.Don`t have any couse.</p>
             <h3 className='text-lg bg-slate-500 py-3 text-center my-4'>Technologys Get From Me</h3>
             <ul className='ml-3'>
               <li>1.Html,Css</li>
@@ -24,7 +24,7 @@ const about = () => {
        
           <div className='mr-5'>
             <h1 className='text-xl bold text-center'>This is my identity</h1>
-            <p>I am always ready for people to doinig for any work . Because I love human.Don't have any couse.</p>
+            <p>I am always ready for people to doinig for any work . Because I love human.Don`t have any couse.</p>
             <h3 className='text-lg bg-slate-500 py-3 text-center my-4'>Technologys Get From Me</h3>
             <ul className='ml-3'>
               <li>1.Html,Css</li>
@@ -36,7 +36,7 @@ const about = () => {
             </ul>
             <span className='text-center m-auto bg-green-600'>Love country(Bangladesh)</span>
           </div>
-            <Image className='h-96 w-96 rounded-e-full ' width={10000} height={100} src="/gul.jpg"/>
+            <Image alt="" className='h-96 w-96 rounded-e-full ' width={10000} height={100} src="/gul.jpg"/>
         </div>
         <section class="text-gray-600 body-font">
   <div class="container mx-auto">
@@ -136,7 +136,7 @@ const about = () => {
       <div class="p-12 md:w-1/2 flex flex-col items-start">
         <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">About Me</span>
         <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">Learning is My Hobbies and I like to learn New Technology </h2>
-        <p class="leading-relaxed mb-8">My name is `Akash islam `still i am a student beside i leran programing myself. I wanna devlope myself and i wannna successfull people. I know achive this target I have to hardwork.`Doese'n matter`I am ready to douing any thing to get a success?</p>
+        <p class="leading-relaxed mb-8">My name is `Akash islam `still i am a student beside i leran programing myself. I wanna devlope myself and i wannna successfull people. I know achive this target I have to hardwork.`Doese`n matter`I am ready to douing any thing to get a success?</p>
         <div class="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
           <a href='./contack' class="text-indigo-500 inline-flex items-center">Learn More
             <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -167,7 +167,7 @@ const about = () => {
       <div class="p-12 md:w-1/2 flex flex-col items-start">
         <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">Future Plan</span>
         <h2 class="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-4">I have a big Dream I wanna successfull</h2>
-        <p class="leading-relaxed mb-8">Eventhoug yet I learning path. so I don't wannna move other side . If is move other side we will lost my target and all of tham.Thats way I don't wanna move other side.</p>
+        <p class="leading-relaxed mb-8">Eventhoug yet I learning path. so I don`t wannna move other side . If is move other side we will lost my target and all of tham.Thats way I don`t wanna move other side.</p>
         <div class="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
           <a href='./contack' class="text-indigo-500 inline-flex items-center">Learn More
             <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
