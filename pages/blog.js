@@ -1,10 +1,9 @@
 import React from 'react'
-
 const blog = () => {
   return (
     <div>
-      <h2>This is my Blog page</h2>
-      <p>lorem</p>
+   
+        <h1 className='py-3 bg-green-5'>This is my blog page</h1>
       
     </div>
   )
