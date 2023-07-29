@@ -1,7 +1,5 @@
 import Head from "next/head";
 import Link from "next/link";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 import Image from "next/image";
 
 export default function Home() {
@@ -13,10 +11,10 @@ export default function Home() {
       <div>
         <Image
           className="justify-center text-center m-auto"
-          width={1000}
-          height={1000}
-          src="/home.avif"
-          alt=""
+          width={500}
+          height={500}
+          src="/bnr-1.png"
+          alt="content"
         />
       </div>
       <div>
